@@ -1,7 +1,2 @@
 algo_venv/
-.input
-.neo.py
 __pycache__/
-.scc.txt
-.scg.py
-.test.py
